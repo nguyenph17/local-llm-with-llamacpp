@@ -1,0 +1,11 @@
+fastapi
+pydantic
+requests
+uvicorn
+pyjwt
+tiktoken
+llama-cpp-python==0.2.28
+python-dotenv
+GPUtil
+psutil
+beautifulsoup4
